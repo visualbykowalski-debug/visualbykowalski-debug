@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there :)
+I am Victoria, an Argentinian developer living in Brazil. I graduated in Digital Games with a solid prior experience in Graphic Design and Social Media. This hybrid path allows me to combine visual sensibility, UI/UX, and strategic communication with a strong foundation in software development using C#, .NET Core, and Entity Framework Core.
+
+→ My backend work involves creating an ASP.NET Core application for a game store, where all game data is stored in a database. This data is made accessible via a REST API, featuring endpoints for creating, reading, updating, and deleting games.
+
+→ Currently, my projects are fresh. I’m studying and building clean architectures, with interactive game mechanics, applying design patterns, dependency injection, and data persistence.
+
+✨Always seeking opportunities where I can combine my visual creativity with my technical rigor to develop digital experiences and games.
+
+→ Check my socials!
+
 
 <!--
 **visualbykowalski-debug/visualbykowalski-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
