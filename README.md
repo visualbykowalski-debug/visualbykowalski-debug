@@ -1,26 +1,11 @@
-## Hi there :)
-I am Victoria, an Argentinian developer living in Brazil. I graduated in Digital Games with a solid prior experience in Graphic Design and Social Media. This hybrid path allows me to combine visual sensibility, UI/UX, and strategic communication with a strong foundation in software development using C#, .NET Core, and Entity Framework Core.
+### Hi, I'm Victoria 👋
 
-→ My backend work involves creating an ASP.NET Core application for a game store, where all game data is stored in a database. This data is made accessible via a REST API, featuring endpoints for creating, reading, updating, and deleting games.
+I'm an Argentinian developer based in Brazil with a degree in **Digital Games** and prior experience in **Graphic Design** and **Social Media**. This hybrid background allows me to bridge visual sensibility, UI/UX, and clear communication with solid software engineering in **C#**, **.NET**, and **Unity**.
 
-→ Currently, my projects are fresh. I’m studying and building clean architectures, with interactive game mechanics, applying design patterns, dependency injection, and data persistence.
+- **Backend Development:** Building RESTful APIs with **ASP.NET Core (Minimal APIs)**, **Entity Framework Core**, and **SQLite**—focusing on clean architecture, DTOs, data validation, dependency injection, and database migrations.
+- **Game & Interactive Development:** Developing 2D game mechanics, UI systems, and WebGL builds in **Unity** and **C#**, applying object-oriented design patterns.
+- **Current Focus:** Expanding my portfolio with scalable backend services and interactive experiences while strengthening software architecture best practices.
 
-✨Always seeking opportunities where I can combine my visual creativity with my technical rigor to develop digital experiences and games.
+✨ Open to remote opportunities where technical rigor meets creative problem-solving.
 
-→ Check my socials!
-
-
-<!--
-**visualbykowalski-debug/visualbykowalski-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/victoria-k-8a94171a2) • [Portfolio](https://victoriakwork.framer.website/)
