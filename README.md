@@ -8,4 +8,4 @@ I'm an Argentinian developer based in Brazil with a degree in **Digital Games** 
 
 ✨ Open to remote opportunities where technical rigor meets creative problem-solving.
 
-📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/victoria-k-8a94171a2) • [Portfolio](https://victoriakwork.framer.website/)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/victoria-k-8a94171a2/) • [Portfolio](https://victoriakwork.framer.website/)
